@@ -7,15 +7,17 @@
   <language>en</language>
   <item>
     <title>v0.1.0</title>
-    <description>
-        * Fixed dependency resolution for CodeMirror modes
-        * Fix error caused by chromeTabs trying to close an already closed tab
-        * Published API docs at http://alanshaw.github.io/nodeit/doc/
-        * [OSX] Fixed scrollbar issues
-        * [OSX] Fixed app not opening window when opening files from finder
-        * [OSX] Added Sparkle for auto updates
-        * [OSX] Fixed opening non ASCII files issue
-    </description>
+    <description><![CDATA[
+      <ul>
+        <li>Fixed dependency resolution for CodeMirror modes</li>
+        <li>Fix error caused by chromeTabs trying to close an already closed tab</li>
+        <li>Published API docs at <a href="http://alanshaw.github.io/nodeit/doc/">http://alanshaw.github.io/nodeit/doc/</a></li>
+        <li>[OSX] Fixed scrollbar issues</li>
+        <li>[OSX] Fixed app not opening window when opening files from finder</li>
+        <li>[OSX] Added Sparkle for auto updates</li>
+        <li>[OSX] Fixed opening non ASCII files issue</li>
+      </ul>
+    ]]></description>
     <pubDate>Sun, 25 Aug 2013 23:42:00 +0000</pubDate>
     <!--sparkle:releaseNotesLink>http://andymatuschak.org/files/notes.html</sparkle:releaseNotesLink-->
     <enclosure url="http://nodeit.org/dist/nodeit-0.1.0.dmg" sparkle:version="0.1.0" length="20512768" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCftwy79Sd484+H7DY6SzjsnaJ5pZfGazfs+ECPnIva8gIgBz+lOCoqVD05ATPB73jEwjHwoapyclNbU5juNX9FeFA=" />
