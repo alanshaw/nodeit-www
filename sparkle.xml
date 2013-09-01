@@ -6,6 +6,19 @@
   <description>Most recent changes with links to updates.</description>
   <language>en</language>
   <item>
+    <title>v0.1.1</title>
+    <description><![CDATA[
+      <ul>
+        <li>Rough cut plugin API</li>
+        <li>Font size plugin to allow changing the font size within documents</li>
+        <li>Fix bug with enabling syntax highlighting for recognised document types</li>
+      </ul>
+    ]]></description>
+    <pubDate>Sun, 1 Sept 2013 10:11:00 +0000</pubDate>
+    <!--sparkle:releaseNotesLink>http://andymatuschak.org/files/notes.html</sparkle:releaseNotesLink-->
+    <enclosure url="http://nodeit.org/dist/nodeit-0.1.1.dmg" sparkle:version="0.1.1" length="20512768" type="application/octet-stream" sparkle:dsaSignature="MEUCIQC4X1dvFpaCclNZthYVNuH9XL/MST1i/Hg6DgkQvdDeXgIgJK3Cke1SS2wPBPsSod2i7yB4fbwOHimhcOZQekuDB4s=" />
+  </item>
+  <item>
     <title>v0.1.0</title>
     <description><![CDATA[
       <ul>
