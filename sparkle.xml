@@ -16,7 +16,7 @@
     ]]></description>
     <pubDate>Sun, 1 Sept 2013 10:11:00 +0000</pubDate>
     <!--sparkle:releaseNotesLink>http://andymatuschak.org/files/notes.html</sparkle:releaseNotesLink-->
-    <enclosure url="http://nodeit.org/dist/nodeit-0.1.1.dmg" sparkle:version="0.1.1" length="20512768" type="application/octet-stream" sparkle:dsaSignature="MEQCIGLX++5579KxrvBt8D3pqmJ4evYfuyaIpwL6CRVbt48cAiB6ZEsN0n8Bw8mCa4POaVYvNOWtIV9OIUYy8sUdlKQd6Q==" />
+    <enclosure url="http://nodeit.org/dist/nodeit-0.1.1.zip" sparkle:version="0.1.1" length="6999916" type="application/octet-stream" sparkle:dsaSignature="MCwCFC13mRaBckmS/IQOgvD25A/7zoxSAhQ/GWX4HhyAXHCT+K8u0eF1AESzyw==" />
   </item>
   <item>
     <title>v0.1.0</title>
